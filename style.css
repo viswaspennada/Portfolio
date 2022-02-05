@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.navbar .navbar-brand span{
+    color: #0d6efd;
+}
+
+.home .home-img .img{
+    height: 400px;
+    width: 400px;
+}
+
+.home-text .text-purple{
+    color: #9932cc;
+}
+
+.portfolio-items .color a{
+    color: white;
+}
+
+footer p{
+    color: gray;
+}
